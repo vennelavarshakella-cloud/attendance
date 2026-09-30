@@ -1,0 +1,6 @@
+{
+  "name": "CampusTap - Smart ID Attendance System",
+  "description": "Next-generation contactless smart attendance tracking system integrated with student RFID, NFC, and barcode ID cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
